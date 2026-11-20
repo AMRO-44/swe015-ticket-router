@@ -1,0 +1,101 @@
+text,intent,split
+my dishwasher is not draining the water,appliance_water_problem,train
+bulaşık makinem su boşaltmıyor model DW-6534,appliance_water_problem,train
+there is water leaking under my washing machine,appliance_water_problem,train
+washing machine stays full of water after the cycle,appliance_water_problem,train
+çamaşır makinesi su almıyor,appliance_water_problem,train
+the fridge is leaking water on the kitchen floor,appliance_water_problem,train
+dishwasher leaves dirty water at the bottom,appliance_water_problem,train
+my washer won't spin and the drum is full of water,appliance_water_problem,train
+buzdolabının altından su akıyor,appliance_water_problem,train
+water pump of the dishwasher makes noise and does not drain,appliance_water_problem,train
+the washing machine floods the bathroom every time,appliance_water_problem,train
+dishwasher error code E24 drain problem,appliance_water_problem,train
+water does not come into my dishwasher,appliance_water_problem,val
+bulaşık makinesinde su kalıyor,appliance_water_problem,val
+the washer is leaking from the door seal,appliance_water_problem,val
+my dishwasher will not drain model DW-7020,appliance_water_problem,test
+washing machine is leaking water from the bottom,appliance_water_problem,test
+çamaşır makinem suyu boşaltmıyor,appliance_water_problem,test
+water keeps pooling inside the dishwasher after washing,appliance_water_problem,test
+the refrigerator is dripping water everywhere,appliance_water_problem,test
+my oven won't turn on at all,appliance_wont_start,train
+fırın hiç çalışmıyor,appliance_wont_start,train
+the washing machine does not start when i press the button,appliance_wont_start,train
+dishwasher has no power and the lights are off,appliance_wont_start,train
+buzdolabım çalışmıyor ve soğutmuyor,appliance_wont_start,train
+my dryer stopped working suddenly,appliance_wont_start,train
+microwave display is dead and it will not start,appliance_wont_start,train
+the fridge stopped cooling and the motor is silent,appliance_wont_start,train
+çamaşır makinesi açılmıyor,appliance_wont_start,train
+model WM-8100 does not power on after the power cut,appliance_wont_start,train
+the cooktop does not heat up anymore,appliance_wont_start,train
+my dishwasher beeps but never starts the program,appliance_wont_start,train
+the oven does not heat,appliance_wont_start,val
+kurutma makinesi çalışmıyor,appliance_wont_start,val
+my freezer is not working,appliance_wont_start,val
+the washing machine will not turn on,appliance_wont_start,test
+bulaşık makinem açılmıyor,appliance_wont_start,test
+my microwave stopped working yesterday,appliance_wont_start,test
+fridge model RF-5500 has no power,appliance_wont_start,test
+the dryer does not start when i close the door,appliance_wont_start,test
+is my dishwasher still under warranty,appliance_warranty_repair,train
+garanti süresi ne zaman bitiyor,appliance_warranty_repair,train
+what is the status of my repair request,appliance_warranty_repair,train
+the technician did not come for my repair appointment,appliance_warranty_repair,train
+servis kaydımın durumu nedir,appliance_warranty_repair,train
+how long is the warranty on the washing machine,appliance_warranty_repair,train
+i want to extend the warranty of my fridge,appliance_warranty_repair,train
+when will the technician fix my oven,appliance_warranty_repair,train
+tamir ücretini garanti karşılıyor mu,appliance_warranty_repair,train
+does the warranty cover a broken door hinge,appliance_warranty_repair,train
+i need to book a repair visit for model DW-6534,appliance_warranty_repair,train
+my repair has been waiting for two weeks,appliance_warranty_repair,train
+can you check my warranty with this serial number,appliance_warranty_repair,val
+teknik servis ne zaman gelecek,appliance_warranty_repair,val
+is the repair free under warranty,appliance_warranty_repair,val
+i want to know if my dryer is covered by warranty,appliance_warranty_repair,test
+garantim devam ediyor mu,appliance_warranty_repair,test
+what happened to my repair ticket,appliance_warranty_repair,test
+please schedule a technician to repair my fridge,appliance_warranty_repair,test
+how many years of warranty do i get with the oven,appliance_warranty_repair,test
+i need a new filter for my dishwasher,appliance_spare_parts,train
+yedek parça siparişi vermek istiyorum,appliance_spare_parts,train
+where can i buy a replacement door seal for the washer,appliance_spare_parts,train
+order a new shelf for the refrigerator,appliance_spare_parts,train
+buzdolabı için yeni raf lazım,appliance_spare_parts,train
+do you sell the cutlery basket for model DW-6534,appliance_spare_parts,train
+how much does a new drain hose cost,appliance_spare_parts,train
+i want to buy original spare parts for my oven,appliance_spare_parts,train
+fırın için yedek ızgara almak istiyorum,appliance_spare_parts,train
+the glass tray of my microwave broke where can i order one,appliance_spare_parts,train
+send me a new water filter cartridge for the fridge,appliance_spare_parts,train
+is the lint filter for the dryer in stock,appliance_spare_parts,train
+i need to order a replacement pump,appliance_spare_parts,val
+çamaşır makinesi kapak contası satıyor musunuz,appliance_spare_parts,val
+where do i buy a new rack for the dishwasher,appliance_spare_parts,val
+can i order a spare filter for the washing machine,appliance_spare_parts,test
+yedek parça fiyatı ne kadar,appliance_spare_parts,test
+i would like to buy a new door handle for the fridge,appliance_spare_parts,test
+do you have the oven light bulb as a spare part,appliance_spare_parts,test
+order a replacement basket for my dishwasher model DW-7020,appliance_spare_parts,test
+can someone come to install my new dishwasher,appliance_installation,train
+yeni çamaşır makinemin kurulumu ne zaman yapılacak,appliance_installation,train
+i bought a built in oven and need installation,appliance_installation,train
+how do i book free installation for the fridge,appliance_installation,train
+kurulum randevusu almak istiyorum,appliance_installation,train
+the installer did not connect the water hose,appliance_installation,train
+please send a technician to set up my new washer,appliance_installation,train
+is installation included when i buy a cooktop,appliance_installation,train
+bulaşık makinesi montajı ücretli mi,appliance_installation,train
+i need someone to mount the microwave above the stove,appliance_installation,train
+when will my new refrigerator be installed,appliance_installation,train
+schedule installation for model WM-8100,appliance_installation,train
+i want to arrange installation of my dryer,appliance_installation,val
+kurulum ekibi ne zaman gelir,appliance_installation,val
+who will connect my new dishwasher,appliance_installation,val
+book an installation appointment for my new oven,appliance_installation,test
+yeni buzdolabımı kim kuracak,appliance_installation,test
+can you install the washing machine i bought yesterday,appliance_installation,test
+is the installation of the dishwasher free,appliance_installation,test
+i need help setting up my new built in microwave,appliance_installation,test
