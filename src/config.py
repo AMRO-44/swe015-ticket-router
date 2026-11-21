@@ -11,7 +11,7 @@ DOCS_DIR = ROOT / "docs"
 
 # Hugging Face Hub repo that stores the trained weights (R7: no weights in git).
 # Change this to your own repo, e.g. "my-hf-username/swe015-ticket-router".
-HF_REPO_ID = os.environ.get("HF_REPO_ID", "YOUR_HF_USERNAME/swe015-ticket-router")
+HF_REPO_ID = os.environ.get("HF_REPO_ID", "AMRO-44/swe015-ticket-router")
 
 SEED = 42
 OOS_LABEL = "oos"
