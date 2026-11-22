@@ -1,0 +1,10 @@
+{
+  "thresholds": {
+    "tfidf_lr": 0.48,
+    "w2v_ffn": 0.67,
+    "bert_base": 0.85,
+    "bert_base_int8": 0.27,
+    "student_fp32": 0.92,
+    "student_int8": 0.91
+  }
+}
