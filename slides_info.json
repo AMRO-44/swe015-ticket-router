@@ -4,7 +4,7 @@
   "course": "SWE015 - Introduction to Large Language Models",
   "use_case": "Use Case 2 - Customer Support Ticket Router",
   "repo_url": "https://github.com/AMRO-44/swe015-ticket-router",
-  "video_url": "TTTT",
+  "video_url": "https://www.youtube.com/watch?v=qzEtgWSufrU",
   "hf_url": "https://huggingface.co/AMRO-44/swe015-ticket-router",
   "ai_tools": [
     ["Claude (Anthropic)", "Project structure, first draft of the code (preprocessing, NumPy word2vec/FFN, training scripts, Gradio app), architecture diagram script, slide generator, drafting the 100 appliance example messages"],
